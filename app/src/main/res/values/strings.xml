@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase5M4</string>
+    <string name="num1">Ingresa el primer número</string>
+    <string name="num2">Ingresa el segundo número</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="tvResultado">Resultado: </string>
+</resources>

@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la aplicación -->
+
+    <style name="Base.Theme.Clase5M4" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores de la paleta de colores personalizada -->
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryDark">@color/DarkPrimaryColor</item>
+        <item name="colorAccent">@color/AccentColor</item>
+        <item name="android:textColorPrimary">@color/PrimaryText</item>
+        <item name="android:textColorSecondary">@color/SecondaryText</item>
+        <item name="android:divider">@color/DividaryText</item>
+    </style>
+    <style name="Theme.Clase5M4" parent="Base.Theme.Clase5M4" />
+</resources>
